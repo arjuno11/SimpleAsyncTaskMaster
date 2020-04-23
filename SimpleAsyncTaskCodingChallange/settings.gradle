@@ -1,0 +1,2 @@
+rootProject.name='SimpleAsyncTask(CodingChallange)'
+include ':app'
